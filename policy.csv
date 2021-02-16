@@ -1,0 +1,5 @@
+p, manali, data1, read
+p, mana, data1, write
+p, data1_admin, data1, read
+p, data1_admin, data1, write
+g, manali, data1_admin
